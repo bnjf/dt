@@ -129,7 +129,7 @@ family. That means it's a functional programming language (functions are
 first-class, values have immutable semantics) with a concatenative
 style rather than the traditional applicative style.
 
-See also Jon Purdy's [_Why Concatanative Programming Matters_](https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
+See also Jon Purdy's [_Why Concatenative Programming Matters_](https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 
 The `dt` language has an imperative _feel_ in the sense that all "functions"
 are linguistically imperative "commands." There is no distinguishing from pure
